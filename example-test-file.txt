@@ -3,3 +3,6 @@ Here is a test file. We are going to use this for testing the collaborative feat
 The public will see this as it is right now. You will make changes to the file and request the changes be "pulled". 
 
 Your changes will not be part of the offical test file until those changes are approved.
+
+
+This is an edit by Al Scheuring from his personal github account.
