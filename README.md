@@ -1,2 +1,8 @@
-# CMU-Cloud-Lab
-The academic Cloud Lab is primarily for the use of the CMU research community and CMU educational purposes, providing access to a wide array of instrumentation. The Academic Cloud Lab has already been used to teach courses for both undergraduate and graduate students, and CMU researchers have conducted research using ECL facilities.
+# Public Protocols
+
+This repository is where we share protocols and information that can benefit Cloud Lab users.  You can improve our documentation by creating new protocols or improving existing ones.  
+
+After you have created or updated a file, you will need to create a "Pull Request", which will allow us to review and approve your changes. Please make sure to give an ample description of your changes when you commit changes.
+
+
+
